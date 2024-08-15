@@ -54,6 +54,7 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) 🌐 互联网操作系统！免费、开源且可自行托管。
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) Cloudflare 的文档。
 - [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) Cloudflare API 的官方 Python 库。
+- [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) 这是一个 Next.js、Tailwind CSS 博客入门模板。开箱即用，配置最新技术，使技术写作变得轻而易举。易于配置和定制。完美替代现有的 Jekyll 和 Hugo 个人博客。
 
 ## AI 相关
 
