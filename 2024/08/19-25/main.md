@@ -2,12 +2,6 @@
 
 记录一周所见所闻
 
-## 阅读语句
-
-:::tip
-
-:::
-
 ## 资讯
 
 - Supabase 开始支持 Python 了！
@@ -22,7 +16,7 @@
 
 ## 实用工具
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) 您需要的认证胶水。
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) 一个你需要的认证胶水库。
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) 现代 JavaScript 实用程序库，速度提高了 2-3 倍，体积缩小了 97%，这是对 lodash 的重大升级。
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) 🎥 命令行视频播放器
 

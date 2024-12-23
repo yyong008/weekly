@@ -83,7 +83,10 @@ export default defineConfig({
         { text: "简介", link: "/2024/main" },
         {
           text: "8月",
-          items: [{ text: "12-18(33/53)", link: "/2024/08/12-18/main" }],
+          items: [
+            { text: "12-18(33/53)", link: "/2024/08/12-18/main" },
+            { text: "19-25(34/53)", link: "/2024/08/19-25/main" },
+          ],
         },
       ],
     },
