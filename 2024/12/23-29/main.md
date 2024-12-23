@@ -22,8 +22,10 @@
 - [数据库面试题（6）PostgreSQL基础](https://www.codingbrick.com/archives/1458.html)
 - [后端面试](https://github.com/yongxinz/backend-interview)  后端面试题汇总（Python、Redis、MySQL、PostgreSQL、Kafka、数据结构、算法、编程、网络）
 - [PostgreSQL-Ecosystem](https://github.com/xiongcccc/PostgreSQL-Ecosystem) 精通 PostgreSQL 之道
+
 ## 实用工具
 
+- [plate](https://github.com/udecode/plate) 由 AI 提供支持的富文本编辑器
 - [gin-cloud-storage](https://github.com/xiaogao67/gin-cloud-storage) 使用Go语言开发的云存储网盘项目
 - [accesscontrol](https://github.com/onury/accesscontrol) Node.js 基于角色和属性的访问控制
 
