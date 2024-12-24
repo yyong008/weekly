@@ -34,6 +34,7 @@
 - [lakego-admin](https://github.com/deatil/lakego-admin) About
 lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理系统。An admin api system with gin, JWT and RBAC.
 - [clay](https://github.com/nicbarker/clay) C 语言的高性能 UI 布局库。
+- [limbo](https://github.com/tursodatabase/limbo) Limbo 是一个基于 Rust 的 OLTP 数据库管理系统，与 SQLite 兼容。
 
 ## AI 相关
 
