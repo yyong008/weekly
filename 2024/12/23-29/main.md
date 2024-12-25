@@ -15,6 +15,7 @@
 
 - [material-ui](https://github.com/mui/material-ui) 发布 v6.3.0 版本
 - [langchain-state-of-ai-2024](https://blog.langchain.dev/langchain-state-of-ai-2024/) langchain 2024 年 AI 状态报告
+- [grpc](https://github.com/grpc/grpc/releases/tag/v1.69.0) 发布 v1.69.0 版本
 
 ## 文章推荐
 
@@ -36,6 +37,7 @@ lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理�
 - [clay](https://github.com/nicbarker/clay) C 语言的高性能 UI 布局库。
 - [limbo](https://github.com/tursodatabase/limbo) Limbo 是一个基于 Rust 的 OLTP 数据库管理系统，与 SQLite 兼容。
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) 小米家庭集成家庭助理
+- [QianYuanX](https://github.com/QianYuana/QianYuanX) ☀️基于antd 4.x 封装的组件库，免费开源，都是在工作中常用的业务场景，把它进行二次封装，在后续开发中直接拿来用🎉🎉
 
 ## AI 相关
 
