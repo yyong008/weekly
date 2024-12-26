@@ -38,6 +38,7 @@ lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理�
 - [limbo](https://github.com/tursodatabase/limbo) Limbo 是一个基于 Rust 的 OLTP 数据库管理系统，与 SQLite 兼容。
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) 小米家庭集成家庭助理
 - [QianYuanX](https://github.com/QianYuana/QianYuanX) ☀️基于antd 4.x 封装的组件库，免费开源，都是在工作中常用的业务场景，把它进行二次封装，在后续开发中直接拿来用🎉🎉
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) CasaOS - 一个简单、易于使用、优雅的开源个人云系统
 
 ## AI 相关
 
