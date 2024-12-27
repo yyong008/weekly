@@ -42,6 +42,7 @@ lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理�
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) CasaOS - 一个简单、易于使用、优雅的开源个人云系统
 - [ghostty](https://github.com/ghostty-org/ghostty) 👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，它使用平台本机 UI 和 GPU 加速。
 - [go-nunu/nunu-layout-advanced](https://github.com/go-nunu/nunu-layout-advanced) Nunu 是一个 Golang 项目脚手架。
+- [wei/pull](https://github.com/wei/pull) 🤖 通过自动 PR 让您的分叉保持最新状态
 
 ## AI 相关
 
