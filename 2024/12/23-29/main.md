@@ -40,6 +40,8 @@ lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理�
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) 小米家庭集成家庭助理
 - [QianYuanX](https://github.com/QianYuana/QianYuanX) ☀️基于antd 4.x 封装的组件库，免费开源，都是在工作中常用的业务场景，把它进行二次封装，在后续开发中直接拿来用🎉🎉
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) CasaOS - 一个简单、易于使用、优雅的开源个人云系统
+- [ghostty](https://github.com/ghostty-org/ghostty) 👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，它使用平台本机 UI 和 GPU 加速。
+- [go-nunu/nunu-layout-advanced](https://github.com/go-nunu/nunu-layout-advanced) Nunu 是一个 Golang 项目脚手架。
 
 ## AI 相关
 
