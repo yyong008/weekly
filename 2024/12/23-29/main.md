@@ -31,6 +31,7 @@
 - [accesscontrol](https://github.com/onury/accesscontrol) Node.js 基于角色和属性的访问控制
 - [found](https://github.com/4Catalyzer/found) React 应用程序的可扩展的基于路由的路由
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) cobalt 是一款不会让您烦恼的媒体下载器。它友好、高效，并且没有广告、跟踪器、付费专区或其他废话。
+- [vite-rs](https://github.com/Wulf/vite-rs) 📦 将 ViteJS 编译的资源嵌入到 Rust 二进制文件中
 
 ## 开源与库
 
