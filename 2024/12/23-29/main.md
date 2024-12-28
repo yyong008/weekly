@@ -44,6 +44,7 @@ lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理�
 - [ghostty](https://github.com/ghostty-org/ghostty) 👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，它使用平台本机 UI 和 GPU 加速。
 - [go-nunu/nunu-layout-advanced](https://github.com/go-nunu/nunu-layout-advanced) Nunu 是一个 Golang 项目脚手架。
 - [wei/pull](https://github.com/wei/pull) 🤖 通过自动 PR 让您的分叉保持最新状态
+- [quark-go](https://github.com/quarkcloudio/quark-go) QuarkGo 是一个可以帮你快速搭建管理后台的工具；它提供的丰富组件，能帮助您使用很少的代码就能搭建出功能完善的管理后台。
 
 ## AI 相关
 
