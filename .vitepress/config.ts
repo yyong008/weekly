@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-
+      { text: "2025", link: "/2025/main" },
       { text: "2024", link: "/2024/main" },
       { text: "2023", link: "/2023/index" },
       { text: "2022", link: "/2022" },

@@ -8,11 +8,8 @@ hero:
   tagline: Mg 的周刊
   actions:
     - theme: brand
-      text: 2024年8月18
-      link: /2024/main
-    - theme: alt
-      text: 2023年周刊
-      link: /2023/index
+      text: 2025年
+      link: /2025/main
 
 features:
   - title: 📝周刊
