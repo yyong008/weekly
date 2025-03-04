@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import { years2025 } from "./2025";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -16,15 +17,7 @@ export default defineConfig({
     ],
 
     sidebar: {
-      "/2025/": [
-        { text: "简介", link: "/2025/main" },
-        { text: "一月", items: [
-          { text: "第四周", link: "/2025/01/20-26" },
-          { text: "第三周", link: "/2025/01/13-19" },
-          { text: "第二周", link: "/2025/01/06-12" },
-          { text: "第一周", link: "/2025/01/00-05" },
-        ] },
-      ],
+      "/2025/": years2025,
       "/2023/": [
         {
           text: "2023年",
@@ -99,9 +92,7 @@ export default defineConfig({
         },
         {
           text: "12月",
-          items: [
-            { text: "23-29(52周)", link: "/2024/12/23-29/main" },
-          ],
+          items: [{ text: "23-29(52周)", link: "/2024/12/23-29/main" }],
         },
       ],
     },
